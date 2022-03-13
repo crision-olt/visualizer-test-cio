@@ -12,4 +12,5 @@ Para la experiencia del usuario harían falta unos iconos y una animación en es
 
 Muchas gracias por vuestra atención, saludos.
 
-Email: crision.olt@gmail.com Vercel: https://visualizer-test-cio.vercel.app/
+Email: crision.olt@gmail.com 
+Vercel: https://visualizer-test-cio.vercel.app/
